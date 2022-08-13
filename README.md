@@ -20,4 +20,6 @@ The managers requested that we create a table for all of the retiring titles and
   * Birth dates of the employees with mentorship eligibility are between January 1, 1965 through December 31, 1965.
 ## Summary
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+Based on the data pulled within the tables, there are going to be over 75,000 employees retiring in the near future. That is going to cause a major strain on the workflow of the company. Pewlett Hackard will need to being recruitment sooner, rather than later.
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+There are more than enough qualified retirement-ready employees. Based on the mentorship eligibility data table, there are a total of 1,549 employees availble to begin training new employees as they are on-boarded. These employees cover 7 different deparments.
