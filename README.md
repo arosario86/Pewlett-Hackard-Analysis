@@ -5,9 +5,9 @@ The managers requested that we create a table for all of the retiring titles and
 ## Results
 * Based on the current data, there are 72,458 employees up for retirement within the different departments.
 ![unique_titles](https://user-images.githubusercontent.com/104965708/184515812-76118018-46c0-4873-9722-30caabfe2d35.png)
-** Within the unique titles, thre are 7 total titles retiring soon.
+* * Within the unique titles, thre are 7 total titles retiring soon.
 ![retiring_titles](https://user-images.githubusercontent.com/104965708/184515834-9ca54000-6d69-45a5-8e61-e61bdef9191b.png)
-** Totals of each retiring title:
+* * Totals of each retiring title:
 *** There are 25,916 senior engineers retiring
 *** There are 24,926 Senior staff employees retiring
 *** There are 9,285 Engineers retiirng
